@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">10120081 Daily Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama">Nama: Naufal Mahdy</string>
+    <string name="kelas">Kelas: IF2</string>
+    <string name="nim">NIM: 10120081</string>
+    <string name="email">Email: naufalmahdyilman@gmail.com</string>
+    <string name="page2">Daily Note 10120081 adalah sebuah aplikasi catatan harian untuk membuat, menyimpan, dan menampilkan catatan.
+        Untuk mulai menggunakan silahkan slide atau pilih menu Notes..</string>
+    <string name="page3">  Untuk mulai membuat Notes,
+        Tekan gambar Note pada NavBar di bawah, lalu tekan tanda plus di kanan bawah.</string>
+</resources>
